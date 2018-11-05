@@ -1,0 +1,8 @@
+Hello,
+
+This a simple text file added at A.txt. I will be adding this file from HitMan local branch.
+
+Lets see how it works.
+
+Thanks,
+Ashiq
